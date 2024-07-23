@@ -39,6 +39,8 @@ To run this project locally, follow these steps:
 
 After starting the development server, you can view the project in your browser at `http://localhost:3000`. Explore the different components and learn from the provided examples.
 
+You can also view the deployed version of the project [here](https://lnkd.in/dY34TnZa).
+
 ## Contribution
 
 If you would like to contribute to this project, please fork the repository and create a pull request. Feel free to submit issues or suggestions for improvements.
